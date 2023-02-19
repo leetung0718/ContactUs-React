@@ -18,9 +18,8 @@ img {
 }
 
 .container {
-  height: 100%;
-  width: 100%;
-  margin: 0%;
+  height: 650px;
+  margin: 5%;
   background: #fff;
 }
 
